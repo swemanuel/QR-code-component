@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+
+.card {
+    margin: 20% auto 20%;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+
+.card-img-top {
+    width: 100%;
+    border-radius: 15px;
+}
+
+
+.card-body {
+    padding: 0% 5%;
+}
+
+.card-text {
+    font-family: Outfit;
+    font-weight: 700;
+    font-size: 130%;
+}
+
+.card-subtext {
+    margin-top: -10px;
+    padding-bottom: 10px;
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 90%;
+    color: lightgray;
+}
