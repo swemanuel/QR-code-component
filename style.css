@@ -1,15 +1,16 @@
 body {
-    background-color: lightblue;
+    background-color: hsl(212, 45%, 89%);
     text-align: center;
 }
 
 
 .card {
-    margin: 20% auto 20%;
+    margin: 5% auto;
     text-align: center;
     background-color: white;
     padding: 10px;
     border-radius: 15px;
+    box-shadow: 2px 5px 20px hsl(211, 12%, 66%);
 
 }
 
@@ -25,6 +26,7 @@ body {
 
 .card-text {
     font-family: Outfit;
+    color: hsl(218, 44%, 22%);
     font-weight: 700;
     font-size: 130%;
 }
@@ -35,5 +37,5 @@ body {
     font-family: Outfit;
     font-weight: 400;
     font-size: 90%;
-    color: lightgray;
+    color: hsl(220, 15%, 55%);
 }
